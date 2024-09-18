@@ -1,1 +1,1 @@
-gghjbmthgb
+El proposito de este repositorio es realizar la practica de ejercicios en python para el primer examen en la asignatura de SIS-112.
